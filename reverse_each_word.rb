@@ -1,1 +1,1 @@
-sentence_1 = 
+sentence_1 = [Hello there, and how are you?]
